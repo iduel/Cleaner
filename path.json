@@ -1,0 +1,29 @@
+[
+    {
+        "local": {
+            "Spotify": [
+                "\\Spotify\\Data",
+                "\\Spotify\\Browser\\Cache\\Cache_Data"
+            ],
+            "Packages Cache": [
+                "\\Package Cache"
+            ],
+            "Temp": [
+                "\\Temp"
+            ],
+            "D3DSCache": [
+                "\\D3DSCache"
+            ]
+        },
+        "roaming": {
+            "Discord": [
+                "\\discord\\blob_storage",
+                "\\discord\\Cache",
+                "\\discord\\GPUCache"
+            ],
+            "Nvidia": [
+                "\\NVIDIA\\ComputeCache"
+            ]
+        }
+    }
+]
