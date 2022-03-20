@@ -24,6 +24,11 @@
             "Nvidia": [
                 "\\NVIDIA\\ComputeCache"
             ]
+        },
+        "misc": {
+            "Prefetch": [
+                "C:\\Windows\\prefetch"
+            ]
         }
     }
 ]
